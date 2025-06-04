@@ -14,34 +14,6 @@ This paper introduces two key concepts for hallucination detection in LLMs:
 The model is designed to proactively flag unreliability *before* factual checking is possible, supporting internal coherence and traceability in open-ended systems.
 
 🔗 **Read the full paper:**  
-[📥 View PDF on Google Drive](# 🧠 Sol Lucid – AI Integrity Research Series
-
-Welcome to the official research repository for the **Sol Lucid** project – a user-aligned initiative exploring long-term cognitive integrity, alignment, and internal signal design in simulated general intelligence systems.
-
-## 📄 Paper 2: *Cognitive Drift – Detecting Hallucinations Through Internal Volatility*
-
-This paper introduces two key concepts for hallucination detection in LLMs:
-
-- **Volatility Factor (VF)** – a dynamic measurement of semantic drift during ongoing generation.
-- **Stagnation Signal (Sᵍ)** – a signal model indicating semantic “dead ends” or overfitting to early assumptions.
-
-The model is designed to proactively flag unreliability *before* factual checking is possible, supporting internal coherence and traceability in open-ended systems.
-
-🔗 **Read the full paper:**  
-[📥 View PDF on Google Drive](# 🧠 Sol Lucid – AI Integrity Research Series
-
-Welcome to the official research repository for the **Sol Lucid** project – a user-aligned initiative exploring long-term cognitive integrity, alignment, and internal signal design in simulated general intelligence systems.
-
-## 📄 Paper 2: *Cognitive Drift – Detecting Hallucinations Through Internal Volatility*
-
-This paper introduces two key concepts for hallucination detection in LLMs:
-
-- **Volatility Factor (VF)** – a dynamic measurement of semantic drift during ongoing generation.
-- **Stagnation Signal (Sᵍ)** – a signal model indicating semantic “dead ends” or overfitting to early assumptions.
-
-The model is designed to proactively flag unreliability *before* factual checking is possible, supporting internal coherence and traceability in open-ended systems.
-
-🔗 **Read the full paper:**  
 [📥 View PDF on Google Drive]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1wekwDWS5ACGREycfUHzatmX4UcjlvwUE/view?usp=drive_link))
 
 > *Author: Tatu Lertola*  
