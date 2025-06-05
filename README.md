@@ -14,7 +14,7 @@ This paper introduces two key concepts for hallucination detection in LLMs:
 The model is designed to proactively flag unreliability *before* factual checking is possible, supporting internal coherence and traceability in open-ended systems.
 
 🔗 **Read the full paper:**  
-[📥 View PDF on Google Drive]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1wekwDWS5ACGREycfUHzatmX4UcjlvwUE/view?usp=drive_link))
+[📥 View PDF on Google Drive]((https://drive.google.com/file/d/1wekwDWS5ACGREycfUHzatmX4UcjlvwUE/view?usp=drive_link))
 
 > *Author: Tatu Lertola*  
 > *Published: June 2025*
