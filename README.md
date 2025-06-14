@@ -1,4 +1,4 @@
-# VolatilityFactorFramework
+# Volatility Factor (VF) Framework
 Cognitive Drift in Generative AI - Volatility Framework
 # 🧠 Sol Lucid – AI Integrity Research Series
 
